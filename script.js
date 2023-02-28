@@ -9,8 +9,10 @@ function increment() {
 
 console.log(countEl)
 
-function hello() {
- console.log(999)
+function save() {
+  console.log(count)
 }
+
+save()
 
  
